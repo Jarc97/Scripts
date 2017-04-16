@@ -1,0 +1,6 @@
+Instructions for StringPermute
+
+1) The program expects a data.txt file with all the strings to be permuted (see data.txt for an example).
+2) The console will display the total permutations and will ask for confirmation before executing.
+3) Confirm by pressing "y" and then press enter.
+4) After the permutation, the program will generate a results.txt containing all the possible permutations.
